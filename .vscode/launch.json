@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch ReflectionDemo",
+            "request": "launch",
+            "mainClass": "OPP.ReflectionDemo",
+            "projectName": "Java-Practice_83a4aa12"
+        },
+        {
+            "type": "java",
             "name": "Launch ObjectClassDemo",
             "request": "launch",
             "mainClass": "OPP.ObjectClassDemo",

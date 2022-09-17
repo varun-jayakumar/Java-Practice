@@ -9,6 +9,11 @@ public class Employee {
         this.salary = salary;
     }
 
+    public String getName()
+    {
+            return this.name;
+    }
+
     public boolean equals(Object obj)
     {
         if(this==obj)             //checking for reference
